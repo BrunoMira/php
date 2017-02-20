@@ -1,2 +1,2 @@
 ﻿# php
-Conjunto de exercícios sobre PHP , propostos pelo canal CanalFessorBruno
+Conjunto de exercícios sobre PHP , propóstos pelo canal CanalFessorBruno
